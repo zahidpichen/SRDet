@@ -36,7 +36,7 @@ The FPS is tested on a V100 GPU.
 <details>
 <summary>Installation</summary>
 
-This repository is based on mmdetection3d, please follow this [page](https://github.com/open-mmlab/mmdetection3d/blob/master/docs/getting_started.md) for installation guidance.
+This repository is based on mmdetection3d, please follow this [page](https://mmdetection3d.readthedocs.io/en/latest/get_started.html) for installation guidance.
 
 </details>
 
